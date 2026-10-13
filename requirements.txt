@@ -1,2 +1,7 @@
 ﻿pandas
 polars
+openpyxl
+SQLAlchemy
+psycopg2-binary
+python-dotenv
+requests
